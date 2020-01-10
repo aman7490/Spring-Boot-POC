@@ -23,7 +23,6 @@ public class ostate {
 		this.id=id;
 	}
 
-
 	public int getId() {
 		return id;
 	}
