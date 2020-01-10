@@ -14,11 +14,9 @@ public class ostate {
 	private String state;
 	private double event_timestamp;
 	private String current_flag;
-	
 	public ostate() {
 	
 	}
-
 
 	public ostate(int id) {
 		// TODO Auto-generated constructor stub
